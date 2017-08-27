@@ -1,0 +1,63 @@
+* {
+  border: 1px solid black;
+}
+
+/* 1. Header Section -------------- */
+#header {
+  display: flex;
+  justify-content: space-between;
+  height: 85px;
+  background-color: lightgreen;
+}
+
+/* 2. body Section -----------------*/
+
+
+/* 3. pink body Section -----------------*/
+
+
+
+/* 4. aside Section -----------------*/
+
+.aside-1 {
+
+}
+
+.aside-2 {
+
+}
+
+.aside-3 {
+
+}
+
+
+/* 5. Footer Section -----------------*/
+.footer-1 {
+  position: absolute;
+  width: 35%;
+  bottom: 0;
+  display: flex;
+  height: 85px;
+  background-color: lightblue;
+}
+
+.footer-2 {
+  position: absolute;
+  width: 35%;
+  height: 85px;
+  bottom: 0;
+  display: inline-block;
+  margin-left: 490px;
+  background-color: lightblue;
+}
+
+  .footer-3 {
+    position: absolute;
+    width: 35%;
+    height: 85px;
+    bottom: 0;
+    display: inline-block;
+    margin-left: 900px;
+    background-color: mediumblue;
+  }
